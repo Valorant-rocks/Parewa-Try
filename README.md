@@ -45,7 +45,7 @@ This project uses next/font to automatically optimize and load Geist, a new font
       </p>
     </td>
     <td>
-      <img src="503585304_1399549287784503_1884043329505912871_n.gif" alt="Parewa Logo" width="450" />
+      <img src="504639516_1055763299327840_5106628068511268479_n.gif" alt="Parewa Logo" width="450" />
     </td>
   </tr>
 </table>
