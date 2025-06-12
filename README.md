@@ -1,7 +1,7 @@
 <p align="center">
   <img src="sexy_parewa-removebg-preview.png" alt="Parewa logo" />
 </p>
-
+<h1 className="text-3xl md:text-4xl font-bold font-sans" align="center">परेवा_</h1>
 <h3 align="center"><strong>Parewa delivers — your News, your Articles, your Way!</strong></h3>
 
 <br>
@@ -49,4 +49,66 @@ This project uses next/font to automatically optimize and load Geist, a new font
     </td>
   </tr>
 </table>
-<strong>Some of our functionalities include:</strong>
+
+**Some of our key functionalities include:**
+
+- **Notice Delivery**  
+  Send real-time announcements to everyone using an input portal.
+
+- **Targeted Announcements**  
+  Choose which grade, club, or section receives a message — no clutter, only relevance.
+
+- **Article Publishing**  
+  Let students publish well-written content directly to the platform for the whole school to see.
+
+- **School-wide Message Archiving**  
+  Never lose track of old notices — all communications are stored and searchable.
+
+ --**School Calendar**
+ View all the events scheduled today as per the school calednar specifies. 
+
+## Usage Tutorials
+If you have any concerns exploring the full-scale usage of Parewa, please kindly refer to our [YouTube page](https://www.youtube.com/your-channel-url) here. 
+It consits of videos on how to use the entire website to the fullest. 
+
+
+## Common FAQ's
+
+- **Does Parewa require the user to sign in?** <br>
+Signing in is really optional and its upto you! You won't need an account to view the general notices, but you will need to sign in (with a bnks domain id) specifically if you want to carry out actiivies like voting and polling.
+
+- **Can Parewa be accessed within school only?**<br>
+Well yes, Parewa's website can only be accessed within school's intranet. However, if you are out of the boundries of school, you can subscribe to the newsletter on our website, which delivers the notices to you, no matter where you are in the world. 
+
+- **Can Parewa be accessed without a working internet conncetion?**<br>
+Absolutely, since parewa's server is hosted in the school's intranet, within the confines of school you could access it even when there is no working internet connection. Note however, that you still need to be connected to the internet even though is is not working.
+
+**If you encounter and come across any sorts of issues be sure to contact us at:**
+```bash
+bnks.parewa.moderator@gmail.com
+```
+## Contributors
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" style="padding: 10px;">
+        <a href="https://github.com/SuyogPrasai" target="_blank">
+          <img src="https://github.com/SuyogPrasai.png" width="80" height="80" style="border-radius: 50%;" alt="Suyog Prasai"/>
+          <br/>
+          <sub><b>Suyog Prasai</b></sub>
+        </a>
+      </td>
+      <td align="center" style="padding: 10px;">
+        <a href="https://github.com/Valorant-rocks" target="_blank">
+          <img src="https://github.com/Valorant-rocks.png" width="80" height="80" style="border-radius: 50%;" alt="Valorant-rocks"/>
+          <br/>
+          <sub><b>Valorant-rocks</b></sub>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
+
