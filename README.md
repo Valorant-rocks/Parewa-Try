@@ -4,7 +4,7 @@
 
 
 ## Table of Contents
- - [Introduction](iIntroduction)
+ - [Introduction](Introduction)
 - [Installation and Usage](#installation-and-usage)
   - [Online](#online)
   - [Local](#local)
