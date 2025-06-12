@@ -4,15 +4,16 @@
 
 
 ## Table of Contents
- - [Introduction](Introduction)
+- [Introduction](#introduction)
 - [Installation and Usage](#installation-and-usage)
   - [Online](#online)
   - [Local](#local)
 - [Features](#features)
-- [Tutorials](#tutorials)
-- [FAQ's](#faqs)
+- [Tutorials](#usage-tutorials)
+- [FAQ's](#common-faqs)
 - [Contributors](#contributors)
-- 
+
+
 ## Introduction
 
 <img src="sexy_parewa-removebg-preview.png" align="right" width="250" alt="Parewa Logo" style="margin-top: -30px;" />
