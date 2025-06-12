@@ -64,7 +64,7 @@ This project uses next/font to automatically optimize and load Geist, a new font
 - **School-wide Message Archiving**  
   Never lose track of old notices — all communications are stored and searchable.
 
- --**School Calendar**
+ -**School Calendar**
  View all the events scheduled today as per the school calednar specifies. 
 
 ## Usage Tutorials
