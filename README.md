@@ -1,3 +1,3 @@
-![Screenshot](sexy_parewa-removebg-preview.png)
+<center>![Screenshot](sexy_parewa-removebg-preview.png)</center>
 
 
