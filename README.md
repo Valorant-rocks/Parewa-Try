@@ -6,8 +6,6 @@
 ## Table of Contents
 - [Introduction](#introduction)
 - [Installation and Usage](#installation-and-usage)
-  - [Online](#online)
-  - [Local](#local)
 - [Features](#features)
 - [Tutorials](#usage-tutorials)
 - [FAQ's](#common-faqs)
