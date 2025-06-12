@@ -1,1 +1,3 @@
-# Parewa-Try
+![Screenshot](sexy_parewa-removebg-preview.png)
+
+
