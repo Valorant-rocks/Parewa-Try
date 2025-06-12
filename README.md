@@ -98,28 +98,18 @@ Absolutely, since parewa's server is hosted in the school's intranet, within the
 ```bash
 bnks.parewa.moderator@gmail.com
 ```
+
+
+  
 ## Contributors
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" style="padding: 10px;">
-        <a href="https://github.com/SuyogPrasai" target="_blank">
-          <img src="https://github.com/SuyogPrasai.png" width="80" height="80" style="border-radius: 50%;" alt="Suyog Prasai"/>
-          <br/>
-          <sub><b>Suyog Prasai</b></sub>
-        </a>
-      </td>
-      <td align="center" style="padding: 10px;">
-        <a href="https://github.com/Valorant-rocks" target="_blank">
-          <img src="https://github.com/Valorant-rocks.png" width="80" height="80" style="border-radius: 50%;" alt="Valorant-rocks"/>
-          <br/>
-          <sub><b>Valorant-rocks</b></sub>
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
+**Suyog Prasai(CEO)** <br><br>
+[![LinkedIn](https://img.icons8.com/color/24/000000/linkedin.png)](https://www.linkedin.com/in/suyogprasai/)
+[![Instagram](https://img.icons8.com/color/24/000000/instagram-new.png)](https://www.instagram.com/suyog_prasai/)
+
+
+
+
 
 
 
