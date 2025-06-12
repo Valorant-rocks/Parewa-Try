@@ -64,8 +64,8 @@ This project uses next/font to automatically optimize and load Geist, a new font
 - **School-wide Message Archiving**  
   Never lose track of old notices — all communications are stored and searchable.
 
- -**School Calendar**
- View all the events scheduled today as per the school calednar specifies. 
+ - **School Calendar** <br>
+   View all the events scheduled today as per the school calednar specifies. 
 
 ## Usage Tutorials
 If you have any concerns exploring the full-scale usage of Parewa, please kindly refer to our [YouTube page](https://www.youtube.com/your-channel-url) here. 
