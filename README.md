@@ -6,21 +6,15 @@
 
 ## Introduction
 
-
-
-<img src="sexy_parewa-removebg-preview.png" align="right" width="250" alt="Parewa Logo" />
+<img src="sexy_parewa-removebg-preview.png" align="right" width="250" alt="Parewa Logo" style="margin-top: -30px;" />
 
 **Parewa** is a student-driven information delivery platform developed entirely by the students of Budhanilkantha School (BNKS).  
 Designed to digitalize internal communication within the school and ensure an effective way to deliver essential notices, it serves as the school’s official system for announcements, updates, and articles.
 
-<br>
-<br>
-
-
-
-
+<br><br>
 
 ## Installation and Usage
+
 
 <h3 > Online </h3>
 The servers of Parewa are up and running on the school's Intranet, as we speak. Just access it with a simple google link while you remain connected to School's Intranet. Visit Today!
